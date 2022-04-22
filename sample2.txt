@@ -1,1 +1,5 @@
+
 created sample2.txt by developer1 and modified by developer 2
+=======
+created sample2.txt by developer1 and modified by developer 1
+
