@@ -1,1 +1,1 @@
-created sample1.txt by developer 1
+created sample1.txt by developer 1 and modified by developer 1
